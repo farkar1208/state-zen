@@ -2,7 +2,6 @@
 //! 演示如何使用状态机框架实现玩家移动逻辑
 
 use std::any::TypeId;
-use std::collections::HashMap;
 use std::sync::Arc;
 use crate::core::{
     StateAspect, StateInRange, Transfer, EventDef, Transition, StateObserver,

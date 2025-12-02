@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "STATE-ZEN"
+name = "state_zen"
 version = "0.1.0"

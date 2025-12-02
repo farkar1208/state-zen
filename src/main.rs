@@ -2,7 +2,7 @@
 //! 
 //! 演示如何使用状态机框架
 
-use STATE_ZEN::examples::player_movement;
+use state_zen::examples::player_movement;
 
 fn main() {
     println!("State-Zen 状态机框架示例");
